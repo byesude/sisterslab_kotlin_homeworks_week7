@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335274824115",
+    "project_id": "notuygulamasiodev",
+    "storage_bucket": "notuygulamasiodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335274824115:android:6e654ffbff27f6248e3bc6",
+        "android_client_info": {
+          "package_name": "com.sisterslab.notuygulamasiodev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335274824115-3q1526lu3gln8qu8hbfiftqle2fr1o0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxfBjWk2hTmN2hej4YnaR3XcJqfZH4Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335274824115-3q1526lu3gln8qu8hbfiftqle2fr1o0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
